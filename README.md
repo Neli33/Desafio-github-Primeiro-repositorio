@@ -1,2 +1,3 @@
-# Desafio-github-Primeiro-repositorio
-Desafio de projeto sobre Git/GitHub 
+#Desafio de projecto sobre Git / GitHub 
+Repositorio de desafios curso OrangeTech DIO 
+
